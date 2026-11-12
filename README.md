@@ -13,7 +13,7 @@ An interactive application for exploring hair and scalp health observations alon
 
 ## Installation & Setup
 
-Clone or download this repository and open the project folder in VS Code.
+Download this repository and open the project folder in VS Code.
 
 Install the required dependencies:
 
